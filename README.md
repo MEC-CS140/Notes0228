@@ -11,7 +11,7 @@ To begin, you'll need to create your own copy of this template repository for ea
 3. **Set the Visibility**: Choose if you want your repository to be public or private.
 4. **Create**: Click on "Create repository from template" to get your own version of this template.
 
-## What's Inside?
+## What's Inside
 
 This template is equipped with the basic structure for web development using HTML, CSS, and JavaScript. Here's what you'll find:
 
